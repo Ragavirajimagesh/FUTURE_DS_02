@@ -74,6 +74,8 @@ Data Visualization
 
 📷 Dashboard Preview
 
+https://github.com/Ragavirajimagesh/FUTURE_DS_02/blob/main/social-media.jpg
+
 
 📖 How to Use
 
