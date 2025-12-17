@@ -93,6 +93,11 @@ Company
 
 Gender
 
+📽 Demo Video
+The project demo video has been uploaded to GitHub under the *Releases* section.
+
+➡ Please navigate to *Releases → v1.0* and download the video to view the full demonstration.
+
 🎯 Conclusion
 
 This dashboard gives a clear understanding of how social media campaigns perform across various demographics and platforms.
