@@ -74,9 +74,6 @@ Data Visualization
 
 📷 Dashboard Preview
 
-(Insert your dashboard screenshot here)
-Example:
-![Dashboard](dashboard_image.jpg)
 
 📖 How to Use
 
