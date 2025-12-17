@@ -96,7 +96,7 @@ Gender
 📽 Demo Video
 The project demo video has been uploaded to GitHub under the *Releases* section.
 
-➡ Please navigate to *Releases → v1.0* and download the video to view the full demonstration.
+➡ Please navigate to *Releases → v2.0* and download the video to view the full demonstration.
 
 🎯 Conclusion
 
