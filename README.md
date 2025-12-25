@@ -102,3 +102,5 @@ The project demo video has been uploaded to GitHub under the *Releases* section.
 
 This dashboard gives a clear understanding of how social media campaigns perform across various demographics and platforms.
 It can help marketing teams optimize budget allocation and improve campaign strategies.
+
+dataset : https://github.com/Ragavirajimagesh/FUTURE_DS_02/blob/main/Social_Media_Advertising.csv.zip
